@@ -1,13 +1,20 @@
 import type { Metadata } from "next";
 import { Lora } from "next/font/google";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeProvider } from "@/components/theme";
 
 
 const lora = Lora({subsets: ["latin"] });
 
+/*
+*/
+
 export const metadata: Metadata = {
-  title: "ERP Freelancer | Alvaro Gonzalez Tarrasa",
+  /*
+   {ERP Freelancer | Alvaro Gonzalez Tarrasa }
+*/
+  
+title: "WC1",
   description: "ERP Freelancer" + " Azure Freelancer" + "Dynamics 365 Freelancer",
 };
 
