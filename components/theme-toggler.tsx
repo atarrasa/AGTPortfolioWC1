@@ -12,6 +12,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 
+//Theme toggler component shadcnUI
 export function DarkModeToggle() {
   const { setTheme } = useTheme()
 

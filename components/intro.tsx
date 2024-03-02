@@ -4,6 +4,7 @@ import { buttonVariants } from "./ui/button";
 import { Mail, Phone } from "lucide-react";
 import Image from "next/image"
 
+//Intro component
 const Intro = () => {
   return (
 <div className="px-12 py-0 md:px-40 md:py-28 max-w-3xl mx-auto">
