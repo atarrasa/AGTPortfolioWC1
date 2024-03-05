@@ -20,7 +20,7 @@ export const navBarElements = [
         id: 3,
         title: "Services",
         icon: <Handshake size={20} />,
-        link: "#services",
+        link: "/#services",
         arialabel: "Services",
     },
     {
