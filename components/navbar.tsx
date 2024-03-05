@@ -1,5 +1,4 @@
 import { navBarElements } from "@/data";
-import Link from "next/link";
 ///Navbar component
 const Navbar = () => {
   return (
