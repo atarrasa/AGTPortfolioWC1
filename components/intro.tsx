@@ -12,7 +12,7 @@ const Intro = () => {
     <h1 className="text-5xl font-bold mb-2">
       Dynamics 365 Freelance
     </h1>
-    <h2 className="text-3xl mt-10 mb-2">Álvaro González</h2>
+    <h2 className="text-3xl mt-10 mb-2">Up2202205</h2>
     <h3 className="text-3xl mt-10 mb-2">
       Looking for the{" "}
     </h3>
@@ -33,7 +33,7 @@ const Intro = () => {
       
     </div>
     <div className="mt-5 flex justify-center">
-    <Image className="rounded-full" src="/profile.png" alt="Picture of the author" width={100} height={1} />
+    <Image className="rounded-full" src="/img/profile.png" alt="Picture of the author" width={100} height={1} />
     </div>
 
 

@@ -17,7 +17,7 @@ const Navbar = () => {
             key={element.id}
             className="cursor-pointer hover:dark:bg-slate-800 hover:bg-slate-400 px-3 py-2 rounded-full transition duration-500"
           >
-            <Link href={element.link}> {element.icon} </Link>
+            <Link aria-label={element.arialabel} href={element.link}> {element.icon} </Link>
           </div>
         ))}
       </div>

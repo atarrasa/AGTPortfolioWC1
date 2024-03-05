@@ -1,5 +1,6 @@
 import About from "@/components/about";
 import ContactMe from "@/components/contact";
+import Footer from "@/components/footer";
 import Intro from "@/components/intro";
 import Navbar from "@/components/navbar";
 import Services from "@/components/services";
@@ -13,8 +14,9 @@ export default function Home() {
       <Navbar />
       <Intro />
       <About/>
-
-
+      <Services/>
+      <ContactMe/>
+      <Footer/>
     </main>
   );
 }
