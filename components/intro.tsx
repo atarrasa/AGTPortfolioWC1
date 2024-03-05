@@ -1,5 +1,4 @@
 import Link from "next/link";
-import "../styles/intro.css";
 import { buttonVariants } from "./ui/button";
 import { Mail, Phone } from "lucide-react";
 import Image from "next/image"
