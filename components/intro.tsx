@@ -7,7 +7,7 @@ import Image from "next/image"
 const Intro = () => {
   return (
 <div className="px-12 py-0 md:px-40 md:py-28 max-w-3xl mx-auto">
-  <div className="text-center" id="intro">
+  <div className="text-center" id="home">
     <h1 className="text-5xl font-bold mb-2">
       Dynamics 365 Freelance
     </h1>
