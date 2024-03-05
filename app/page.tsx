@@ -9,7 +9,7 @@ import { DarkModeToggle } from "@/components/theme-toggler";
 //Home page component, containing all the components
 export default function Home() {
   return (
-    <main className="pb-40">
+    <main className="pb-10">
       <DarkModeToggle />
       <Navbar />
       <Intro />
