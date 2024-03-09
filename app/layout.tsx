@@ -1,16 +1,19 @@
 import type { Metadata } from "next";
 import { Lora } from "next/font/google";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeProvider } from "@/components/theme";
 
-
+//Lora font subset
 const lora = Lora({subsets: ["latin"] });
 
+//Metadata object contains the title and description of the website
 export const metadata: Metadata = {
-  title: "ERP Freelancer | Alvaro Gonzalez Tarrasa",
+  
+title: "Dynamics 365 Freelance | Up2202205",
   description: "ERP Freelancer" + " Azure Freelancer" + "Dynamics 365 Freelancer",
 };
 
+//Layout component contains the theme provider and the children
 export default function RootLayout({
   children,
 }: Readonly<{
