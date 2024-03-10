@@ -48,7 +48,6 @@ const About = () => {
           </p>
           I had the opportunity to work in different countries which also makes me a very adaptable person, with an international profile,
            which can help on making the communication on your project smoother, valuable on a project where rollouts among different countries are expected.
-          Let´s get in contact and speak about your needs.
           <p className="mt-2">
             Let´s get in contact and speak about your needs.
           </p>
