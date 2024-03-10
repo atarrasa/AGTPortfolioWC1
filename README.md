@@ -52,6 +52,15 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Live site
+
+http://up2202205.students.portsmouthuni.ac.uk/
+https://up2202205.netlify.app/
+
+## Github Repo
+
+https://github.com/atarrasa/AGTPortfolioWC1
+
 ## Credits
 Developed by Up2202205
 I have used SHADCN UI library, and Embla Carousel.
