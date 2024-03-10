@@ -18,7 +18,7 @@ const Intro = () => {
     <h3 className="text-3xl mt-2 mb-2">
       <strong className="font-bold ">right solution</strong>
     </h3>
-    <h3 className="text-3xl mb-4">for your bussines or client?</h3>
+    <h3 className="text-3xl mb-4">for your business or client?</h3>
     <h3 className="text-4xl font-bold"> Don&apos;t look further.</h3>
     <div className="flex items-center">
       <div className="flex flex-col md:flex-row gap-4 justify-between mt-10 mx-auto">

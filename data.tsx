@@ -36,9 +36,9 @@ export const navBarElements = [
 export const aboutMe = [
     {
         id: 1,
-        name: "International Proved Experience",
+        name: "International Proven Experienced",
         icon: <Ship/>,
-        description: "+2 Years of experiencie over different countries",
+        description: "+2 Years of experience over different countries",
     },
     {
         id: 2,
@@ -111,7 +111,7 @@ export const servicesElements = [
                 name: "Security and Compliance",
             },
             {
-                name: "Automitization of processes",
+                name: "Automatization of processes",
             },
             {
                 name: "ARM & API Management",

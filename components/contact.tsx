@@ -36,7 +36,7 @@ const ContactMe = () => {
   };
   return (
     <div className="p-6 md:px-12 md:py-44 max-w-5xl mx-auto" id="contact" >
-      <Title title="Contact Me" subtitle="Get in touch with me?" />
+      <Title title="Contact Me" subtitle="Get in touch with me." />
       <Form {...form} >
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
           <FormField
