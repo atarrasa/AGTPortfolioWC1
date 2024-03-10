@@ -38,22 +38,17 @@ const About = () => {
           {/*aboutMeDescription field of data component*/}
           <p className="my-2">
             {" "}
-            I am a Dynamics 365 Technical Consultant, specialized in developing
-            customized solutions to fit your unique bussiness needs. I have
-            experience helping organizations configuring the system, and
-            conducting workshops for users.
+            I am a Dynamics 365 Technical Consultant, specializing in developing customized solutions to fit your unique business needs. 
+            I have experience helping organizations configure the system, and conducting workshops for users.
           </p>
           <p className="my-2">
-            I am experience developing customized solutions, for those areas
-            where the standard does not reach your unique needs. I have also
-            experience managing and deploying the require infrastructure, which
-            makes me a versatile profile. I have experience on industries as
-            Food, Manufacturing, and Pharma.
+          I have experience developing customized solutions, for those areas where the standard does not reach your unique needs. 
+          I have also experience managing and deploying the required infrastructure, which makes me a versatile profile. 
+          I have experience in industries such as Food, Manufacturing, and Pharma.
           </p>
-          I had the opportunity to work in different countries which also makes
-          me a very adaptable person, with an international profile, which can
-          help on making the communication on your project smoother, valuable on
-          project where rollouts among different countries is expected.
+          I had the opportunity to work in different countries which also makes me a very adaptable person, with an international profile,
+           which can help on making the communication on your project smoother, valuable on a project where rollouts among different countries are expected.
+          Let´s get in contact and speak about your needs.
           <p className="mt-2">
             Let´s get in contact and speak about your needs.
           </p>

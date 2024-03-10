@@ -1,9 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Install dependencies
-
-
-
 ├── @hookform/resolvers@3.3.4
 ├── @radix-ui/react-dropdown-menu@2.0.6
 ├── @radix-ui/react-icons@1.3.0
